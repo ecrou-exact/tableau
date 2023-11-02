@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1698767339 source:c:\users\geffe\documents\testenc\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+
+1698767339 source:c:\users\geffe\documents\cour_l2_semestre_1\programmation_avance\trie_tableau_c\main.c
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+
